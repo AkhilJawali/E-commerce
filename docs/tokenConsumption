@@ -1,0 +1,11 @@
+prompt 1 : create the req doc of the EC-27 story
+response : Est. Credits Used: 45.54 Elapsed time: 22m 51s
+
+prompt 1 : create the design doc of the EC-27 story
+response : Est. Credits Used: 5.54 Elapsed time: 2m 03s
+
+prompt 1 : create the dev stories  
+response : Est. Credits Used: 5.95 Elapsed time: 3m 47s
+
+prompt 1 : start working on the dev sub-tasks.. dont do the the unit test n code coverage part..
+response : Est. Credits Used: 23.81 Elapsed time: 17m 58s
